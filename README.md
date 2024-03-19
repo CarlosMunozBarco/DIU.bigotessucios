@@ -1,8 +1,8 @@
 # DIU24
-Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Grupos de Teatro ) 
 
 Grupo: DIU1_01AABB.  Curso: 2023/24 
-Updated: 11/2/2024
+Updated: 19/3/2024
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Pedro benitez Gris     :octocat:     
+ * :bust_in_silhouette:  Carlos Muñoz Barco    :octocat:
 
 ----- 
 
@@ -33,7 +33,7 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+>>> Como objeto principal de esta práctica hemos escogido la página web de [La Estupenda](https://espaciolaestupenda.com/) . Poniendonos en la piel de los dueños del club de teatro hemos podido encontrar puntos de mejora y objetivos que nos interesaría conseguir a largo plazo y así definir de una forma mas clara estas areas de mejora.
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
@@ -43,7 +43,10 @@ Miembros
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+>>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha
+>>> Para esta parte nos hemos encargado de crear dos personas ficticias para entender como puede ser una persona normal que puede ser usuario de nuestra página. Para ello hemos creado un chico, Javier Martos, y una chica, Chessie Chesster, ambos jovenes que buscan algo nuevo que hacer, uno por unas razones diferentes a las del otro.
+
+(img/)
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
