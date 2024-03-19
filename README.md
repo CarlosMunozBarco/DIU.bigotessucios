@@ -38,21 +38,25 @@ Miembros
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
+![Competitor Analysis](img/Competitor.png)
+
+Para este analisis de los competidores hemos elegido [La Carpinteria Teatral](https://lacarpinteriateatral.com/) y [Tengo Teatro](https://www.tengoteatro.com/) para contrastarlos con la página de La Estupenda.
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha
->>> Para esta parte nos hemos encargado de crear dos personas ficticias para entender como puede ser una persona normal que puede ser usuario de nuestra página. Para ello hemos creado un chico, Javier Martos, y una chica, Chessie Chesster, ambos jovenes que buscan algo nuevo que hacer, uno por unas razones diferentes a las del otro.
+Para esta parte nos hemos encargado de crear dos personas ficticias para entender como puede ser una persona normal que puede ser usuario de nuestra página. Para ello hemos creado un chico, Javier Martos, y una chica, Chessie Chesster, ambos jovenes que buscan algo nuevo que hacer, uno por unas razones diferentes a las del otro.
 
-(img/)
+![Javier Martos](img/Javier.png)
+![Chessie Chesster](img/Chessie.png)
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
+![Journey Map Javier Martos](img/Javier-Journey.png)
+![Journey Map Chessie Chesster](img/Chessie-Journey.png)
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+Hemos escogido estas experiencias porque nos hemos dado cuenta que para el usuario normal no acaba resultando tan intuitivo ni atractivo realizar ambas tareas, que a nuestro parecer, deben de ser las más comunes en cuanto a un grupo teatral
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
