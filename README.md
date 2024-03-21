@@ -1,7 +1,7 @@
 # DIU24
 Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Grupos de Teatro ) 
 
-Grupo: DIU1_01AABB.  Curso: 2023/24 
+Grupo: DIU1_bigotessucios.  Curso: 2023/24 
 Updated: 19/3/2024
 
 Proyecto: 
@@ -15,7 +15,7 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   Pedro benitez Gris     :octocat:     
+ * :bust_in_silhouette:   Pedro Benitez Gris     :octocat:     
  * :bust_in_silhouette:  Carlos Muñoz Barco    :octocat:
 
 ----- 
@@ -38,7 +38,7 @@ Como objeto principal de esta práctica hemos escogido la página web de [La Est
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
-![Competitor Analysis](img/Competitor.png)
+![Competitive Analysis](img/Competitor.png)
 
 Para este analisis de los competidores hemos elegido [La Carpinteria Teatral](https://lacarpinteriateatral.com/) y [Tengo Teatro](https://www.tengoteatro.com/) para contrastarlos con la página de La Estupenda.
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
