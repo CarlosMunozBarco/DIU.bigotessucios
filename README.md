@@ -15,15 +15,10 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   Pedro Benitez Gris     :octocat:     
+ * :bust_in_silhouette:  Pedro Benitez Gris    :octocat:     
  * :bust_in_silhouette:  Carlos Muñoz Barco    :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
@@ -33,20 +28,20 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
-Como objeto principal de esta práctica hemos escogido la página web de [La Estupenda](https://espaciolaestupenda.com/) . Poniendonos en la piel de los dueños del club de teatro hemos podido encontrar puntos de mejora y objetivos que nos interesaría conseguir a largo plazo y así definir de una forma mas clara estas areas de mejora.
+Como objeto principal de esta práctica hemos escogido la página web de [La Estupenda](https://espaciolaestupenda.com/) . Poniendonos en la piel de los dueños del club de teatro hemos podido encontrar puntos de mejora y objetivos que nos interesaría conseguir a largo plazo y así definir de una forma mas clara estas areas de mejora. Para ello, hemos realizado este [User Research Plan](P1/UserResearchPlan.pdf).
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
 ![Competitive Analysis](img/Competitor.png)
 
-Para este analisis de los competidores hemos elegido [La Carpinteria Teatral](https://lacarpinteriateatral.com/) y [Tengo Teatro](https://www.tengoteatro.com/) para contrastarlos con la página de La Estupenda.
+Para este analisis de los competidores hemos elegido [La Carpinteria Teatral](https://lacarpinteriateatral.com/) y [Tengo Teatro](https://www.tengoteatro.com/) para contrastarlos con la página de La Estupenda. COMPLETAR
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
-Para esta parte nos hemos encargado de crear dos personas ficticias para entender como puede ser una persona normal que puede ser usuario de nuestra página. Para ello hemos creado un chico, Javier Martos, y una chica, Chessie Chesster, ambos jovenes que buscan algo nuevo que hacer, uno por unas razones diferentes a las del otro.
+Para esta parte nos hemos encargado de crear dos personas ficticias para entender como puede ser una persona normal que puede ser usuario de nuestra página. Para ello hemos creado un chico, Javier Martos, y una chica, Chessie Chesster, ambos jovenes que buscan algo nuevo que hacer, uno por unas razones diferentes a las del otro. COMPLETAR
 
 ![Javier Martos](img/Javier.png)
 ![Chessie Chesster](img/Chessie.png)
@@ -56,10 +51,14 @@ Para esta parte nos hemos encargado de crear dos personas ficticias para entende
 ![Journey Map Javier Martos](img/Javier-Journey.png)
 ![Journey Map Chessie Chesster](img/Chessie-Journey.png)
 
-Hemos escogido estas experiencias porque nos hemos dado cuenta que para el usuario normal no acaba resultando tan intuitivo ni atractivo realizar ambas tareas, que a nuestro parecer, deben de ser las más comunes en cuanto a un grupo teatral
+Hemos escogido estas experiencias porque nos hemos dado cuenta que para el usuario normal no acaba resultando tan intuitivo ni atractivo realizar ambas tareas, que a nuestro parecer, deben de ser las más comunes en cuanto a un grupo teatral. COMPLETAR
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
+En la [Usability Review](P1/UsabilityReview.pdf) podremos ver una revisión objetivo de muchos de los aspectos de la página web donde hemos obtenido una valoración final de **53** puntos sobre 100, que según la valoración, los usuarios deberian de poder completar la mayoria de sus objetivos a pesar de carecer de una buena experiencia de usuario.
+
+A forma de resumen, probando y analizando la página web de “La Estupenda”, pudimos encontrar áreas de mejora en esta. El User Research nos reveló que varias acciones en la página web no eran tan intuitivas, además de no llegar a ser tan atractiva y persuasiva como otras páginas que pudimos comparar en el Competitor Analysis. La creación de dos personas ficticias nos ha ayudado a ver que no solo es un usuario idealizado el que querrá hacer uso de la web, sino también a comprender las expectativas y necesidades de una persona normal al utilizar la web. Y el usability review nos ha permitido ver de forma objetiva los numerosos fallos y carencias que la página web tiene.
+
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
