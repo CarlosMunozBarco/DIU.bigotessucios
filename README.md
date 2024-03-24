@@ -35,13 +35,19 @@ Como objeto principal de esta práctica hemos escogido la página web de [La Est
 
 ![Competitive Analysis](img/Competitor.png)
 
-Para este analisis de los competidores hemos elegido [La Carpinteria Teatral](https://lacarpinteriateatral.com/) y [Tengo Teatro](https://www.tengoteatro.com/) para contrastarlos con la página de La Estupenda. COMPLETAR
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+Para este analisis de los competidores hemos elegido [La Carpinteria Teatral](https://lacarpinteriateatral.com/) y [Tengo Teatro](https://www.tengoteatro.com/) para contrastarlos con la página de La Estupenda. Hemos escogido la Carpinteria Teatral por ser granadina, 
+lo que nos permite comprarar La Estupenda con otra compañia de teatro en su mismo contexto, y Tengo Teatro por ser una
+compañia de teatro bastante reconocida, lo que nos permite comparar La Estupenda con otra compañia que, en principio, hace las cosas "bien".
+Es facil observar que las dos compañias granadinas están bastante igualadas, pero La Estupenda sale ganando por poco. Sin embargo, ambas son considerablemente deficientes comparadas con Tengo Teatro, donde el presupuesto superior se refleja notablemente en su página web.
+Si tuvieramos que destacar los puntos fuertes de cada una serían: en el caso de La Estupenda, el precio, pues es el que ofrece
+los servicios mas baratos, para La Carpinteria Teatral el diseño, que pese a no ser particularmente eficaz si es destacablemente
+atractivo, mientras que Tengo Teatro dispone del diseño mas intuitivo y la mayor facilidad de uso.
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
-Para esta parte nos hemos encargado de crear dos personas ficticias para entender como puede ser una persona normal que puede ser usuario de nuestra página. Para ello hemos creado un chico, Javier Martos, y una chica, Chessie Chesster, ambos jovenes que buscan algo nuevo que hacer, uno por unas razones diferentes a las del otro. COMPLETAR
+Para esta parte nos hemos encargado de crear dos personas ficticias para entender como puede ser una persona normal que puede ser usuario de nuestra página. Para ello hemos creado un chico, Javier Martos, y una chica, Chessie Chesster, ambos jovenes que buscan algo nuevo que hacer, uno por unas razones diferentes a las del otro. Por una parte, Javier Martos es una persona irresponsable e inmadura pero que consta con una motivación bastante sólida,
+pue. Por otra parte, Chessie Chesster es una persona mas centrada pero que tiene como única motivación ocupar su tiempo libre.
 
 ![Javier Martos](img/Javier.png)
 ![Chessie Chesster](img/Chessie.png)
@@ -51,7 +57,8 @@ Para esta parte nos hemos encargado de crear dos personas ficticias para entende
 ![Journey Map Javier Martos](img/Javier-Journey.png)
 ![Journey Map Chessie Chesster](img/Chessie-Journey.png)
 
-Hemos escogido estas experiencias porque nos hemos dado cuenta que para el usuario normal no acaba resultando tan intuitivo ni atractivo realizar ambas tareas, que a nuestro parecer, deben de ser las más comunes en cuanto a un grupo teatral. COMPLETAR
+Hemos escogido estas experiencias porque nos hemos dado cuenta que para el usuario normal no acaba resultando tan intuitivo ni atractivo realizar ambas tareas, que a nuestro parecer, deben de ser las más comunes en cuanto a un grupo teatral. En ambos casos los dos personajes se encuentran con numerosos 
+contratiempos fruto de la falta de funcionalidades que faciliten la experiencia de usuario (como la falta de una opción de compartir un curso por redes sociales) o de la pobre implementación de las que si son ofrecidas por la página web (como la falta de descripción en los cursos fuera de la página asociada a cada uno de ellos).
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
