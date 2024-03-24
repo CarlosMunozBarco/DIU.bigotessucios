@@ -46,8 +46,7 @@ atractivo, mientras que Tengo Teatro dispone del diseño mas intuitivo y la mayo
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
-Para esta parte nos hemos encargado de crear dos personas ficticias para entender como puede ser una persona normal que puede ser usuario de nuestra página. Para ello hemos creado un chico, Javier Martos, y una chica, Chessie Chesster, ambos jovenes que buscan algo nuevo que hacer, uno por unas razones diferentes a las del otro. Por una parte, Javier Martos es una persona irresponsable e inmadura pero que consta con una motivación bastante sólida,
-pue. Por otra parte, Chessie Chesster es una persona mas centrada pero que tiene como única motivación ocupar su tiempo libre.
+Para esta parte nos hemos encargado de crear dos personas ficticias para entender como puede ser una persona normal que puede ser usuario de nuestra página. Para ello hemos creado un chico, Javier Martos, y una chica, Chessie Chesster, ambos jovenes que buscan algo nuevo que hacer, uno por unas razones diferentes a las del otro. Por una parte, Javier Martos es una persona joven e inmadura pero que consta con una motivación bastante sólida. Por otra parte, Chessie Chesster es una persona mas centrada pero que tiene como única motivación ocupar su tiempo libre.
 
 ![Javier Martos](img/Javier.png)
 ![Chessie Chesster](img/Chessie.png)
