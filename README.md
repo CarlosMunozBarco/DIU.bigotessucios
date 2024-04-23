@@ -128,7 +128,13 @@ El user flow nos muestra los flujos muestran de forma visual la acciones que hay
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![Catalogo](img/CatalogoJuegos_portatil.png)
+![Catalogo](img/CatalogoJuegos_tablet.png)
+![Catalogo](img/CatalogoJuegos_movil.png)
+![Catalogo](img/JuegoDetalle_portatil.png)
+![Catalogo](img/JuegoDetalle_tablet.png)
+![Catalogo](img/JuegoDetalle_movil.png)
+
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
