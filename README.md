@@ -5,11 +5,13 @@ Grupo: DIU1_bigotessucios.  Curso: 2023/24
 Updated: 19/3/2024
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+**MesaManía**
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+_Somos un club de juegos de mesa que se junta de forma habitual en nuestro propio recinto. Realizamos demostraciones de juegos, torneos de cartas y otros juegos, además de contar con nuestra propia tienda.
+Por otra parte, ofrecemos un servicio de alquiler de salas de juego, que incluye el propio espacio y una gran variedad de juegos de mesa. Contamos con un sistema de socios que permite una fácil inscripción a las actividades del club y otras ventajas._
+ 
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
@@ -65,54 +67,62 @@ En la [Usability Review](P1/UsabilityReview.pdf) podremos ver una revisión obje
 
 A forma de resumen, probando y analizando la página web de “La Estupenda”, pudimos encontrar áreas de mejora en esta. El User Research nos reveló que varias acciones en la página web no eran tan intuitivas, además de no llegar a ser tan atractiva y persuasiva como otras páginas que pudimos comparar en el Competitor Analysis. La creación de dos personas ficticias nos ha ayudado a ver que no solo es un usuario idealizado el que querrá hacer uso de la web, sino también a comprender las expectativas y necesidades de una persona normal al utilizar la web. Y el usability review nos ha permitido ver de forma objetiva los numerosos fallos y carencias que la página web tiene.
 
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
-
-
 ## Paso 2. UX Design  
 
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
+Primero hemos realizado un mapa de empatía respecto a lo que un usuario normal puede sentir al respecto de nuestra propuesta
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+![Empathy Map](img/empathy_map.png)
   
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-
+Nuestra propuesta de valor para un nuevo diseño es crear una aplicación web que muestre de forma legible y fluida la información que el usuario espera encontrar, creando además llamadas de acción a participar en el club e involucrarse aun más
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+Para nuestro club, hemos realizado este scope canvas para definir en que consiste nuestro proyecto
+![Método UX](img/scope_canvas.png)
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+El user Map sirve para mostrar de forma visual las interacciones y caminos que un usuario puede tomar dentro de nuestra plataforma. Mientras que el task analysis nos ayudará a identificar las tareas principales y su relevancia para los
+usuarios:
+
+| Grupos de usuarios                | Jugadores competitivos | Jugadores aficionados | Principiantes / Personas que están empezando el hobby | Personas que quieren hacer amigos | Coleccionistas |
+| --------------------------------- | ---------------------- | --------------------- | ----------------------------------------------------- | --------------------------------- | -------------- |
+| Alquilar salas                    | M                      | H                     | L                                                     | L                                 | L              |
+| Comprar juegos de mesa            | L                      | M                     | H                                                     | M                                 | H              |
+| Apuntarse en torneos              | H                      | M                     | L                                                     | M                                 | M              |
+| Intercambiar juegos de mesas      | L                      | H                     | M                                                     | M                                 | H              |
+| Descubrir y probar juegos nuevos  | L                      | H                     | H                                                     | M                                 | H              |
+| Empezar un nuevo hobby            | L                      | L                     | H                                                     | M                                 | L              |
+| Asistir a eventos                 | H                      | H                     | H                                                     | H                                 | H              |
+| Jugar partidas con otros miembros | H                      | H                     | H                                                     | H                                 | M              |
+
+El user flow nos muestra los flujos muestran de forma visual la acciones que hay que llevar a cabo para realizar una actividad/tarea, y muestra las relaciones y las dependencias entre las mismas:
+
+![Método UX](img/user_flow.png)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
+![Sitemap](img/sitemap.png)
+ 
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+| Término                      | Significado                                                     |
+| ---------------------------- | --------------------------------------------------------------- |
+| Unete al Club                | Ir al formulario de inscripción al club                         |
+| Alquiler de salas            | Realizar una reserva online de una sala para jugar              |
+| Torneos                      | Torneos de juegos de mesa                                       |
+| Crear tu propio Torneo       | Formulario de información del torneo a crear por el usuario     |
+| Unirse a un torneo existente | Formulario de inscripción a un torneo creado por otro usuario   |
+| Conseguir Juegos de mesa     | Apartado de compra y cambio de juegos de mesa                   |
+| Comprar juego de mesa        | Adquirir a traves del club juegos de mesa                       |
+| Intercambiar juegos de mesa  | Prestar juegos de mesa a cambio de otros                        |
+| Organizar eventos especiales | Crear un evento relacionado con los juegos de mesa para el club |
+| Contacto                     | Pagina con informacion de contacto                              |
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
