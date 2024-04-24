@@ -84,7 +84,7 @@ Nuestra propuesta de valor para un nuevo diseño es crear una aplicación web qu
 Para nuestro club, hemos realizado este scope canvas para definir en que consiste nuestro proyecto
 ![Método UX](img/scope_canvas.png)
 
-![Método UX](img/sitemap.png) 2.b User Flow (task) analysis 
+![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
 El user Map sirve para mostrar de forma visual las interacciones y caminos que un usuario puede tomar dentro de nuestra plataforma. Mientras que el task analysis nos ayudará a identificar las tareas principales y su relevancia para los
