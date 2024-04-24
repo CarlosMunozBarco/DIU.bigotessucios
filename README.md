@@ -121,7 +121,9 @@ El user flow nos muestra los flujos muestran de forma visual la acciones que hay
 | Conseguir Juegos de mesa     | Apartado de compra y cambio de juegos de mesa                   |
 | Comprar juego de mesa        | Adquirir a traves del club juegos de mesa                       |
 | Intercambiar juegos de mesa  | Prestar juegos de mesa a cambio de otros                        |
-| Organizar eventos especiales | Crear un evento relacionado con los juegos de mesa para el club |
+| Eventos                      | Eventos de juegos de mesa                                       |
+| Organizar evento             | Crear un evento para una fecha determinada                      |
+| Consultar eventos proximos   | Consultar los eventos próximos organizados por otros miembros   |
 | Contacto                     | Pagina con informacion de contacto                              |
 
 
