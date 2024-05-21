@@ -191,7 +191,7 @@ Los patrones usados en el diseño de la aplicación han sido los siguientes:
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
-![Mockup](img/mockup_mesamania.gif) 
+![](https://github.com/CarlosMunozBarco/DIU.bigotessucios/blob/master/img/mockup_mesamania.gif)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
