@@ -183,14 +183,17 @@ Los patrones usados en el diseño de la aplicación han sido los siguientes:
 </ul>
 
 
-![Método UX](img/guidelines_mesamania.png)
+![Guidelines](img/PantallaPrincipal.png)
+![Guidelines](img/Principal.png)
+![Guidelines](img/registro.png)
+![Guidelines](img/eventos.png)
+![Guidelines](img/catalogo.png)
+![Guidelines](img/SobreNosotros.png)
 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
+El siguiente video muestra el funcionamiento de la aplicación.
 ![](https://github.com/CarlosMunozBarco/DIU.bigotessucios/blob/master/img/mockup_mesamania.gif)
 
 
