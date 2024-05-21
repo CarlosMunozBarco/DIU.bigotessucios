@@ -144,7 +144,6 @@ El user flow nos muestra los flujos muestran de forma visual la acciones que hay
 
 ![Método UX](img/moodboard_icono.png) 3.a Moodboard
 -----
-![Método UX](img/moodboard.png)
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo
