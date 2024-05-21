@@ -152,7 +152,7 @@ A continuación se muestra el moodboard usado para la realización del proyecto.
   <li>Nuestro logo final</li>
   <li>Todos los logos utilizados</li>
   <li>La paleta de colores.</li>
-  <li>la tipografía</li>
+  <li>La tipografía</li>
   <li>Imágenes de como serán los eventos e imágenes del estilo de la página</li>
 </ul>
 
@@ -195,7 +195,7 @@ La pantalla de registro. Sirve para unirse al club.
 La pantalla de torneos. Muestra los torneos que se celebrarán proximamente.
 ![Guidelines](img/eventos.png)
 
-El catálogo de la tienda. Muestra los distintos juegos de mesa que se pueden comprar desde la aplicación, y la pantalla de compra de un juego en particular.
+El catálogo de la tienda. Muestra los distintos juegos de mesa que se pueden comprar desde la aplicación, y la pantalla de compra de uno en particular.
 ![Guidelines](img/catalogo.png)
 
 La pantalla de información acerca del club. Ofrece información relevante para los usuarios como el e-mail de contacto o la localización de la sede del club.
