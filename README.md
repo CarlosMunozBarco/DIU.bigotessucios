@@ -161,15 +161,30 @@ A continuación se muestra el moodboard usado para la realización del proyecto.
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
-
+Nuestra Landing page tiene como objetivo mostrar al usuario todo lo que tenemos para ofrecer de forma clara y concisa.
+Mostramos mediante una tarjeta y un texto descriptivo las 3 principales actividades del club e incitamos al usuario a unirse al club mediante call to actions y botones llamativos para apuntarse.
 ![LandingPage](img/landing_page.png)
->>> Plantear Landing Page 
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+Los patrones usados en el diseño de la aplicación han sido los siguientes:
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+<ul>
+  <li>Onboarding: pagina principal que ve un usuario al entrar en la aplicación.</li> 
+  <li>Menu: menu lateral adaptado a movil para navegar por las distintas páginas de nuestra app.</li>
+  <li>Carousel: carousel para mostrar las principales actividades ofrecidas por el club.</li>
+  <li>Search: una barra de búsqueda para acceder de forma mas directa a cualquiera de las opciones de la aplicación.</li>
+  <li>Article list: se muestra una lista de artículos mostrados como tarjetas.</li>
+  <li>Item details: se muetra de forma detallada toda la información acerca de los juegos de mesa adquiribles por el usuario.</li>
+ <li>Form imput: formulario para inscribirse en el club.</li>
+ <li>About: una pequeña descripción acerca de quienes somos y que actividades llevamos a cabo. Además, se proporciona información acerca de se encuentra nuestro local fisicamente.</li>
+ 
+</ul>
+
+
+![Método UX](img/guidelines_mesamania.png)
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
@@ -179,7 +194,6 @@ A continuación se muestra el moodboard usado para la realización del proyecto.
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
-
 
 >>> Publicar my Case Study en Github..
 >>> Documente y resuma el diseño de su producto
