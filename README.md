@@ -14,7 +14,7 @@ Por otra parte, ofrecemos un servicio de alquiler de salas de juego, que incluye
  
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![Logo](img/Logo.png)
 
 Miembros
  * :bust_in_silhouette:  Pedro Benitez Gris    :octocat:     
@@ -162,7 +162,7 @@ A continuación se muestra el moodboard usado para la realización del proyecto.
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 Nuestra Landing page tiene como objetivo mostrar al usuario todo lo que tenemos para ofrecer de forma clara y concisa.
-Mostramos mediante una tarjeta y un texto descriptivo las 3 principales actividades del club e incitamos al usuario a unirse al club mediante call to actions y botones llamativos para apuntarse.
+Mostramos mediante una tarjeta y un texto descriptivo las 3 principales actividades del club e incitamos al usuario a unirse.
 ![LandingPage](img/landing_page.png)
 
 
