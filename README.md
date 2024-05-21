@@ -198,6 +198,7 @@ El catálogo de la tienda. Muestra los distintos juegos de mesa que se pueden co
 ![Guidelines](img/catalogo.png)
 
 La pantalla de información acerca del club. Ofrece información relevante para los usuarios como el e-mail de contacto o la localización de la sede del club.
+
 ![Guidelines](img/SobreNosotros3.png)
 
 
