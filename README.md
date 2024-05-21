@@ -154,7 +154,7 @@ A continuación se muestra el moodboard usado para la realización del proyecto.
   <li>la tipografía</li>
   <li>Imágenes de como serán los eventos e imágenes del estilo de la página</li>
 </ul>
-![Moodboard](img/moodboard.png)
+![Método UX](img/moodboard.png)
 
 
 
