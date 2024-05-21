@@ -14,6 +14,7 @@ Por otra parte, ofrecemos un servicio de alquiler de salas de juego, que incluye
  
 
 Logotipo: 
+
 ![Logo](img/Logo2.png)
 
 Miembros
