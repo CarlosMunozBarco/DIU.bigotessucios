@@ -149,6 +149,7 @@ El user flow nos muestra los flujos muestran de forma visual la acciones que hay
 >>> Incluir Logotipo
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
+![Moodboard](img/moodboard.png)
 
 
 
