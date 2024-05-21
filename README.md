@@ -187,7 +187,7 @@ Los patrones usados en el diseño de la aplicación han sido los siguientes:
 ![Guidelines](img/registro.png)
 ![Guidelines](img/eventos.png)
 ![Guidelines](img/catalogo.png)
-![Guidelines](img/SobreNosotros.png)
+![Guidelines](img/SobreNosotros2.png)
 
 
 ![Método UX](img/mockup.png)  3.d Mockup
