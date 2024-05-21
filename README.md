@@ -144,7 +144,6 @@ El user flow nos muestra los flujos muestran de forma visual la acciones que hay
 
 ![Método UX](img/moodboard_icono.png) 3.a Moodboard
 -----
-![Método UX](img/moodboard.png)
 
 A continuación se muestra el moodboard usado para la realización del proyecto. Incluye:
 <ul>
@@ -156,7 +155,7 @@ A continuación se muestra el moodboard usado para la realización del proyecto.
   <li>Imágenes de como serán los eventos e imágenes del estilo de la página</li>
 </ul>
 
-
+![Método UX](img/moodboard.png)
 
 
 
