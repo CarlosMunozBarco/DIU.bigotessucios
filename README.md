@@ -182,7 +182,7 @@ Los patrones usados en el diseño de la aplicación han sido los siguientes:
  
 </ul>
 
-
+![Guidelines](img/PantallaPrincipal.png)
 ![Guidelines](img/Principal.png)
 ![Guidelines](img/registro.png)
 ![Guidelines](img/eventos.png)
