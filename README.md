@@ -182,17 +182,28 @@ Los patrones usados en el diseño de la aplicación han sido los siguientes:
  
 </ul>
 
+La pantalla de carga. Es lo primero que ve un usuario al entrar en la aplicación.
 ![Guidelines](img/PantallaPrincipal.png)
+
+La pantalla principal. Muestra mediante tarjetas y la barra de navegación todas las funcionalidades que ofrece la aplicación.
 ![Guidelines](img/Principal.png)
+
+La pantalla de registro. Sirve para unirse al club.
 ![Guidelines](img/registro.png)
+
+La pantalla de torneos. Muestra los torneos que se celebrarán proximamente.
 ![Guidelines](img/eventos.png)
+
+El catálogo de la tienda. Muestra los distintos juegos de mesa que se pueden comprar desde la aplicación, y la pantalla de compra de un juego en particular.
 ![Guidelines](img/catalogo.png)
+
+La pantalla de información acerca del club. Ofrece información relevante para los usuarios como el e-mail de contacto o la localización de la sede del club.
 ![Guidelines](img/SobreNosotros3.png)
 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
-El siguiente video muestra el funcionamiento de la aplicación.
+El siguiente video muestra el funcionamiento de la aplicación. 
 ![](https://github.com/CarlosMunozBarco/DIU.bigotessucios/blob/master/img/mockup_mesamania.gif)
 
 
