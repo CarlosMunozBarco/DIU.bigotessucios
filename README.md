@@ -183,22 +183,22 @@ Los patrones usados en el diseño de la aplicación han sido los siguientes:
  
 </ul>
 
-La pantalla de carga. Es lo primero que ve un usuario al entrar en la aplicación.
+La pantalla de carga. Es lo primero que ve un usuario al entrar en la aplicación. Muestra el logo y el nombre del club.
 ![Guidelines](img/PantallaPrincipal.png)
 
-La pantalla principal. Muestra mediante tarjetas y la barra de navegación todas las funcionalidades que ofrece la aplicación.
+La pantalla principal. Muestra mediante tarjetas y la barra de navegación todas las funcionalidades que ofrece la aplicación. Se pueden apreciar el carrusel y el menu lateral, que facilita la navegación en movil por las distintas secciones de la aplicación.
 ![Guidelines](img/Principal.png)
 
-La pantalla de registro. Sirve para unirse al club.
+La pantalla de registro. Sirve para unirse al club. Consta de un formulario para introducir los datos del usuario y un proceso de confirmación de correo electrónico.
 ![Guidelines](img/registro.png)
 
-La pantalla de torneos. Muestra los torneos que se celebrarán proximamente.
+La pantalla de torneos. Muestra los torneos que se celebrarán proximamente mediante una serie de cards que describe brevemente los datos mas importantes de cada uno.
 ![Guidelines](img/eventos.png)
 
-El catálogo de la tienda. Muestra los distintos juegos de mesa que se pueden comprar desde la aplicación, y la pantalla de compra de uno en particular.
+El catálogo de la tienda. Muestra los distintos juegos de mesa que se pueden comprar desde la aplicación, y la pantalla de compra de uno en particular. Aqui es donde están implementados los patrones de article list y item detail, previamente mencionados.
 ![Guidelines](img/catalogo.png)
 
-La pantalla de información acerca del club. Ofrece información relevante para los usuarios como el e-mail de contacto o la localización de la sede del club.
+La pantalla de información acerca del club. Ofrece información relevante para los usuarios como el e-mail de contacto o la localización de la sede del club. Corresponde al patrón about.
 
 ![Guidelines](img/SobreNosotros3.png)
 
