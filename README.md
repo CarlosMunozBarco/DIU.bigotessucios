@@ -187,7 +187,7 @@ La pantalla de carga. Es lo primero que ve un usuario al entrar en la aplicació
 
 ![Guidelines](img/PantallaPrincipal.png)
 
-La pantalla principal. Muestra mediante tarjetas y la barra de navegación todas las funcionalidades que ofrece la aplicación. Se pueden apreciar el carrusel y el menu lateral, que facilita la navegación en movil por las distintas secciones de la aplicación.
+La pantalla principal. Muestra mediante tarjetas y la barra de navegación todas las funcionalidades que ofrece la página. Se pueden apreciar el carrusel y el menu lateral, que facilita la navegación en movil por las distintas secciones de la aplicación.
 
 ![Guidelines](img/Principal.png)
 
