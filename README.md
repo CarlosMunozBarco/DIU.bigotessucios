@@ -145,10 +145,15 @@ El user flow nos muestra los flujos muestran de forma visual la acciones que hay
 ![Método UX](img/moodboard_icono.png) 3.a Moodboard
 -----
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
+A continuación se muestra el moodboard usado para la realización del proyecto. Incluye:
+<ul>
+  <li>Nuestra imagen de marca</li> 
+  <li>Nuestro logo final</li>
+  <li>Todos los logos utilizados</li>
+  <li>La paleta de colores.</li>
+  <li>la tipografía</li>
+  <li>Imágenes de como serán los eventos e imágenes del estilo de la página</li>
+</ul>
 ![Moodboard](img/moodboard.png)
 
 
@@ -156,7 +161,7 @@ El user flow nos muestra los flujos muestran de forma visual la acciones que hay
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
+![LandingPage](img/landing_page.png)
 >>> Plantear Landing Page 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
