@@ -14,7 +14,7 @@ Por otra parte, ofrecemos un servicio de alquiler de salas de juego, que incluye
  
 
 Logotipo: 
-![Logo](img/Logo.png)
+![Logo](img/Logo2.png)
 
 Miembros
  * :bust_in_silhouette:  Pedro Benitez Gris    :octocat:     
