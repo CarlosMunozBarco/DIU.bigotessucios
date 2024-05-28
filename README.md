@@ -270,11 +270,24 @@ Resultados y valoración
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Chessie Chesster | M / 21   | Jugadora profesional de ajedrez  | Basica     | Extrovertida | Web       | A 
+| Javier Martos | H / 15   | Estudiante  | Media       | Social       | Web        | A 
+| Ainhoa Ugartemendia  | M / 35   | Abogada     | Media        | Emocional    | Web      | B 
+| Manuel Aguilar  | H / 45   | Fisico  | Media       | Racional     | Web        | B 
 
+| CUESTIONARIO SUS                                                                         | Valoracion User1 (entre 1-5) | Normalizado | Valoracion User2 (entre 1-5) | Valoracion User3 (entre 1-5) | Valoracion User3 (entre 1-5) |
+| ---------------------------------------------------------------------------------------- | ---------------------------- | ----------- | ---------------------------- | ---------------------------- | ---------------------------- |
+| Creo que me gustará visitar con frecuencia este website                                  | 5                            | 4           | 3                            | 4                            | 3                            |
+| Encontré el website innecesariamente complejo                                            | 2                            | 3           | 1                            | 2                            | 1                            |
+| Pensé que era fácil utilizar este website                                                | 4                            | 3           | 5                            | 4                            | 4                            |
+| Creo que necesitaría del apoyo de un experto para recorrer el website                    | 1                            | 4           | 1                            | 1                            | 1                            |
+| Encontré las funciones del website bastante bien integradas                              | 4                            | 3           | 5                            | 4                            | 4                            |
+| Pensé que había demasiada inconsistencia en el website                                   | 1                            | 4           | 1                            | 1                            | 2                            |
+| Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | 4                            | 3           | 5                            | 4                            | 4                            |
+| Encontré el website muy grande al recorrerlo                                             | 2                            | 3           | 2                            | 1                            | 1                            |
+| Me sentí muy confiado en el manejo del website                                           | 5                            | 4           | 5                            | 5                            | 4                            |
+| Necesito aprender muchas cosas antes de manejarme en el website                          | 2                            | 3           | 1                            | 2                            | 2                            |
+| VALORACION FINAL                                                                         | 85                           | 85          | 92,5                         | 85                           | 80                           |
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
@@ -315,7 +328,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 ### Realizado por:
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
 Informe realizado por el equipo DIU1_Bigotessucios.
 La página sobre crusos para amantes de la cocina la hemos encontrado sencilla, con una interfaz que muestra una usabilidad intuitiva y con la posibilidad de navegar por ella con faciidad.
 
@@ -330,7 +342,6 @@ La página sobre crusos para amantes de la cocina la hemos encontrado sencilla, 
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-[Incluir un breve resumen el propósito de la App]
 El proposito de la app es promover la pasión por la cocina a través de su página web, ofreciendo una amplia variedad de talleres personalizados y experiencias culinarias únicas. Nuestra plataforma permite a los usuarios explorar clases tanto populares como menos conocidas, así como participar en funciones interactivas como guardar recuerdos de las experiencias y seguir a otros usuarios y chefs. Nuestra estrategia se basa en la investigación de mercado y en la retroalimentación de los usuarios para ofrecer constantemente un servicio diferenciado y atractivo.
 
 
@@ -346,7 +357,8 @@ El proposito de la app es promover la pasión por la cocina a través de su pág
 
 y Resumen conciso de problemas detectados ]
 
-
+Hemos utilizado varias metodologías para llevar acabo esta usability review.
+Los problemas que hemos encontrado durante el testeo de la página han sido varias. Una de ellas ha sido escoger a correctos usuarios de prueba que pudiesen estar interesados por la temática de la aplicación. Otro problema que hemos encontrado ha sido en como recogeriamos los datos de las encuestas tras las pruebas de estos usuarios, ya que en esa transmisión de información tampoco sabemos las referencias sobre las que los usuarios se podrían estar basando. Por lo demás, llevar a cabo esta revisión de usabilidad no ha supuesto mayor complicación.
 
 
 
