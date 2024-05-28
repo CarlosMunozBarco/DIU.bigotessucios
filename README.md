@@ -275,6 +275,15 @@ Resultados y valoración
 | Ainhoa Ugartemendia  | M / 35   | Abogada     | Media        | Emocional    | Web      | B 
 | Manuel Aguilar  | H / 45   | Fisico  | Media       | Racional     | Web        | B 
 
+![Método UX](img/Survey.png) 4.c Cuestionario SUS
+----
+
+>>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
+http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
+Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+
+>>> Adjuntar captura de imagen con los resultados + Valoración personal 
+
 | CUESTIONARIO SUS                                                                         | Valoracion User1 (entre 1-5) | Normalizado | Valoracion User2 (entre 1-5) | Valoracion User3 (entre 1-5) | Valoracion User3 (entre 1-5) |
 | ---------------------------------------------------------------------------------------- | ---------------------------- | ----------- | ---------------------------- | ---------------------------- | ---------------------------- |
 | Creo que me gustará visitar con frecuencia este website                                  | 5                            | 4           | 3                            | 4                            | 3                            |
@@ -289,15 +298,7 @@ Resultados y valoración
 | Necesito aprender muchas cosas antes de manejarme en el website                          | 2                            | 3           | 1                            | 2                            | 2                            |
 | VALORACION FINAL                                                                         | 85                           | 85          | 92,5                         | 85                           | 80                           |
 
-![Método UX](img/Survey.png) 4.c Cuestionario SUS
-----
-
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
+Personalmente, aunque contemos con mayor expreiencia Tic que los usuarios que han realizado las pruebas, los resultados satisfacen nuestras espectativas y estamos conformes con estos. Pensamos que ambas aplicaciones son intuitivas y con una usabilidad sencilla
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
