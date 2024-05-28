@@ -221,37 +221,6 @@ El siguiente video muestra el funcionamiento de la aplicación.
 >>> Documente y resuma el diseño de su producto
 
 
-## Paso 5. Exportación & evaluación con Eye Tracking 
-
-Exportación a HTML/Flutter
------
-
-![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
-
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
-
-Diseño del experimento 
-----
-
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
-
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
-
-Resultados y valoración 
------
-
-
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
-
-
-
 ## Paso 4. Evaluación 
 
 
@@ -261,6 +230,8 @@ Resultados y valoración
 El caso que se nos ha sido asignado dse trata de Sabor y Saber, del grupo DIU2_MiG's. Se trata de una aplicación para los amantes de cocina, funcionando como una pqueña red social donde los usuarios además de compartir sus experiencias con otros apasionados de la gastronomía, también tienen la psobilidad de acceder a clases y formaciones para especializarse más en el arte de cocinar.
 
 [Enlace a GITHUB del proyecto](https://github.com/Angeel2003/DIU)
+
+
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
@@ -272,7 +243,76 @@ El caso que se nos ha sido asignado dse trata de Sabor y Saber, del grupo DIU2_M
 | Ainhoa Ugartemendia  | M / 35   | Abogada     | Media        | Emocional    | Web      | B 
 | Manuel Aguilar  | H / 45   | Fisico  | Media       | Racional     | Web        | B 
 
-![Método UX](img/Survey.png) 4.c Cuestionario SUS
+
+
+
+![Método UX](img/eye-tracking.png))  4.c Eye Tracking
+
+El objetivo de este paso es evaluar si nuestra pagina web esta bien diseñada. En concreto, queremos comprobar que la antención de los usuarios se dirige hacia donde nosotros teniamos planeado que se dirigiera.
+Para ello hemos hecho uso de la herramienta web Gaze Recorder, que permite mediante el uso de la webcam registrar hacia donde se dirige nuestra mirada cuando se nos presenta una imagen delante. 
+En este caso hemos recogido los datos de tres personas distintas (un usuario experto y dos usuarios objetivo) cuando se les muestra tres imagenes de nuestra página web. Analicemos ahora los resultados de cada imagen.
+
+## Imagen 1. Pantalla principal.
+En esta imagen el area de interes es el boton de apuntarse, pues el objetivo principal de esta pantalla es incitar al usuario a unirse al club.
+
+![eyetracking](img/PantallaPrincipal.png)
+
+Y estos son los resultados de los tres usuarios.
+
+Usuario experto.
+
+![eyetracking](img/eyetracking_carlos_principal.png)
+
+El usuario experto ha dedicado la mayor parte de su atención al boton de apuntarse y el de desplegar las opciones de la aplicacion (las tres barras). Sin embargo, practicamente ha ignorado el título y logo de la página.
+La atencion de este usuario se ha dirigido principalmente a lo que teniamos planeado que fuera el area de interes, por lo que de momento el diseño cumple con su función.
+
+Usuario objetivo 1.
+
+
+Usuario objetivo 2.
+
+
+## Imagen 2. Catálogo de items.
+En esta imagen las areas de interes son tanto las imagenes de los juego, pues es necesario que estas llamen la atención del usuario si queremos que los compre, y los botones de compra, pues el objetivo final de esta pantalla es incitar al usuario a adquirir un juego de mesa.
+
+![eyetracking](img/pantalla_compra.png)
+
+Y estos son los resultados de los tres usuarios.
+
+Usuario experto.
+
+![eyetracking](img/eyetracking_carlos_compra.png)
+
+El usuario experto se ha centrado mayormente en el boton de comprar, lo que era uno de los objetivos, pero apenas a dedicado tiempo a observar la imagen. Esto puede significar que esta no está lo suficientemente resaltada y por lo tanto no destaca en el diseño.
+
+Usuario objetivo 1.
+
+
+Usuario objetivo 2.
+
+
+
+## Imagen 3. Pantalla de compra de un item especifico.
+En este caso las areas de interes son, de nuevo, el boton de compra y la imagen, pues al igual que en el caso anterior el objetivo es incitar al usuario a comprar este juego de mesa.
+
+![eyetracking](img/pantalla_compra_item.png)
+
+Y estos son los resultados de los tres usuarios.
+
+Usuario experto.
+
+![eyetracking](img/eyetracking_carlos_compraItem.png)
+
+Es facil comprobar que el usuario experto ha dedicado casi toda su atención al precio, aunque también ha observado (aunque sea brevemente) la imagen del juego y el boton de compra. Este resultado, aunque no es el esperado, tiene cierto sentido, pues el precio no es solo lo que un usuario normal suele mirar primero cuando quiere comprar un producto sino que además en nuestro diseño está bastante resaltado al ser de gran tamaño y estar subrayado.
+
+Usuario objetivo 1.
+
+
+Usuario objetivo 2.
+
+
+
+![Método UX](img/Survey.png) 4.d Cuestionario SUS
 ----
 
 | CUESTIONARIO SUS                                                                         | Valoracion User1 (entre 1-5) | Normalizado | Valoracion User2 (entre 1-5) | Valoracion User3 (entre 1-5) | Valoracion User3 (entre 1-5) |
@@ -291,7 +331,7 @@ El caso que se nos ha sido asignado dse trata de Sabor y Saber, del grupo DIU2_M
 
 Personalmente, aunque contemos con mayor expreiencia Tic que los usuarios que han realizado las pruebas, los resultados satisfacen nuestras espectativas y estamos conformes con estos. Pensamos que ambas aplicaciones son intuitivas y con una usabilidad sencilla
 
-![Método UX](img/usability-report.png) 4.d Usability Report
+![Método UX](img/usability-report.png) 4.e Usability Report
 ----
 
 # Usability Report
