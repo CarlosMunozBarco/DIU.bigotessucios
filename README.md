@@ -261,7 +261,7 @@ Y estos son los resultados de los tres usuarios.
 
 Usuario experto.
 
-<img src="https://github.com/CarlosMunozBarco/DIU.bigotessucios/blob/master/img/eyetracking_carlos_principal.png" width="250" height="300">
+<img src="https://github.com/CarlosMunozBarco/DIU.bigotessucios/blob/master/img/eyetracking_carlos_principal.png" width="300" height="350">
 
 El usuario experto ha dedicado la mayor parte de su atención al boton de apuntarse y el de desplegar las opciones de la aplicacion (las tres barras). Sin embargo, practicamente ha ignorado el título y logo de la página.
 La atencion de este usuario se ha dirigido principalmente a lo que teniamos planeado que fuera el area de interes, por lo que de momento el diseño cumple con su función.
@@ -281,7 +281,7 @@ Y estos son los resultados de los tres usuarios.
 
 Usuario experto.
 
-<img src="https://github.com/CarlosMunozBarco/DIU.bigotessucios/blob/master/img/eyetracking_carlos_compra.png" width="250" height="300">
+<img src="https://github.com/CarlosMunozBarco/DIU.bigotessucios/blob/master/img/eyetracking_carlos_compra.png" width="300" height="350">
 
 El usuario experto se ha centrado mayormente en el boton de comprar, lo que era uno de los objetivos, pero apenas a dedicado tiempo a observar la imagen. Esto puede significar que esta no está lo suficientemente resaltada y por lo tanto no destaca en el diseño.
 
@@ -301,7 +301,7 @@ Y estos son los resultados de los tres usuarios.
 
 Usuario experto.
 
-<img src="https://github.com/CarlosMunozBarco/DIU.bigotessucios/blob/master/img/eyetracking_carlos_compraItem.png" width="250" height="300">
+<img src="https://github.com/CarlosMunozBarco/DIU.bigotessucios/blob/master/img/eyetracking_carlos_compraItem.png" width="300" height="350">
 
 Es facil comprobar que el usuario experto ha dedicado casi toda su atención al precio, aunque también ha observado (aunque sea brevemente) la imagen del juego y el boton de compra. Este resultado, aunque no es el esperado, tiene cierto sentido, pues el precio no es solo lo que un usuario normal suele mirar primero cuando quiere comprar un producto sino que además en nuestro diseño está bastante resaltado al ser de gran tamaño y estar subrayado.
 
