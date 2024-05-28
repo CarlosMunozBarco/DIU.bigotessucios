@@ -246,7 +246,7 @@ El caso que se nos ha sido asignado dse trata de Sabor y Saber, del grupo DIU2_M
 
 
 
-![Método UX](img/eye-tracking.png))  4.c Eye Tracking
+![Método UX](img/eye-tracking.png)  4.c Eye Tracking
 
 El objetivo de este paso es evaluar si nuestra pagina web esta bien diseñada. En concreto, queremos comprobar que la antención de los usuarios se dirige hacia donde nosotros teniamos planeado que se dirigiera.
 Para ello hemos hecho uso de la herramienta web Gaze Recorder, que permite mediante el uso de la webcam registrar hacia donde se dirige nuestra mirada cuando se nos presenta una imagen delante. 
@@ -255,13 +255,13 @@ En este caso hemos recogido los datos de tres personas distintas (un usuario exp
 ## Imagen 1. Pantalla principal.
 En esta imagen el area de interes es el boton de apuntarse, pues el objetivo principal de esta pantalla es incitar al usuario a unirse al club.
 
-![eyetracking](img/PantallaPrincipal.png)
+![eyetracking](img/Principal.png)
 
 Y estos son los resultados de los tres usuarios.
 
 Usuario experto.
 
-![eyetracking](img/eyetracking_carlos_principal.png)
+<img src="https://github.com/CarlosMunozBarco/DIU.bigotessucios/blob/master/img/eyetracking_carlos_principal.png" width="220" height="200">
 
 El usuario experto ha dedicado la mayor parte de su atención al boton de apuntarse y el de desplegar las opciones de la aplicacion (las tres barras). Sin embargo, practicamente ha ignorado el título y logo de la página.
 La atencion de este usuario se ha dirigido principalmente a lo que teniamos planeado que fuera el area de interes, por lo que de momento el diseño cumple con su función.
@@ -281,7 +281,7 @@ Y estos son los resultados de los tres usuarios.
 
 Usuario experto.
 
-![eyetracking](img/eyetracking_carlos_compra.png)
+<img src="https://github.com/CarlosMunozBarco/DIU.bigotessucios/blob/master/img/eyetracking_carlos_compra.png" width="220" height="200">
 
 El usuario experto se ha centrado mayormente en el boton de comprar, lo que era uno de los objetivos, pero apenas a dedicado tiempo a observar la imagen. Esto puede significar que esta no está lo suficientemente resaltada y por lo tanto no destaca en el diseño.
 
@@ -301,7 +301,7 @@ Y estos son los resultados de los tres usuarios.
 
 Usuario experto.
 
-![eyetracking](img/eyetracking_carlos_compraItem.png)
+<img src="https://github.com/CarlosMunozBarco/DIU.bigotessucios/blob/master/img/eyetracking_carlos_compraItem.png" width="220" height="200">
 
 Es facil comprobar que el usuario experto ha dedicado casi toda su atención al precio, aunque también ha observado (aunque sea brevemente) la imagen del juego y el boton de compra. Este resultado, aunque no es el esperado, tiene cierto sentido, pues el precio no es solo lo que un usuario normal suele mirar primero cuando quiere comprar un producto sino que además en nuestro diseño está bastante resaltado al ser de gran tamaño y estar subrayado.
 
