@@ -258,15 +258,12 @@ Resultados y valoración
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+El caso que se nos ha sido asignado dse trata de Sabor y Saber, del grupo DIU2_MiG's. Se trata de una aplicación para los amantes de cocina, funcionando como una pqueña red social donde los usuarios además de compartir sus experiencias con otros apasionados de la gastronomía, también tienen la psobilidad de acceder a clases y formaciones para especializarse más en el arte de cocinar.
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
+[Enlace a GITHUB del proyecto](https://github.com/Angeel2003/DIU)
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
@@ -277,12 +274,6 @@ Resultados y valoración
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
-
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
 | CUESTIONARIO SUS                                                                         | Valoracion User1 (entre 1-5) | Normalizado | Valoracion User2 (entre 1-5) | Valoracion User3 (entre 1-5) | Valoracion User3 (entre 1-5) |
 | ---------------------------------------------------------------------------------------- | ---------------------------- | ----------- | ---------------------------- | ---------------------------- | ---------------------------- |
