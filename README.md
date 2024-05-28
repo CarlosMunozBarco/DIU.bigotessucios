@@ -289,7 +289,139 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+# Usability Report
+
+
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="zoom:50%;" />
+
+#### Evaluación de usabilidad del proyecto 
+
+### Sabor y Saber
+
+### 28/05/2024
+
+
+
+
+
+<img src="https://github.com/Angeel2003/DIU/blob/53339105b776625e0ba1051f9ee41d8021cccfdd/P3/logo.jpg" width="220" height="200">
+
+[Enlace a GITHUB del proyecto](https://github.com/Angeel2003/DIU)
+
+
+
+
+
+### Realizado por:
+
+[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
+Informe realizado por el equipo DIU1_Bigotessucios.
+La página sobre crusos para amantes de la cocina la hemos encontrado sencilla, con una interfaz que muestra una usabilidad intuitiva y con la posibilidad de navegar por ella con faciidad.
+
+
+
+
+
+
+
+
+
+
+## 1 DESCRIPCIÓN DEL WEBSITE
+
+[Incluir un breve resumen el propósito de la App]
+El proposito de la app es promover la pasión por la cocina a través de su página web, ofreciendo una amplia variedad de talleres personalizados y experiencias culinarias únicas. Nuestra plataforma permite a los usuarios explorar clases tanto populares como menos conocidas, así como participar en funciones interactivas como guardar recuerdos de las experiencias y seguir a otros usuarios y chefs. Nuestra estrategia se basa en la investigación de mercado y en la retroalimentación de los usuarios para ofrecer constantemente un servicio diferenciado y atractivo.
+
+
+ 
+
+
+
+## 2 RESUMEN EJECUTIVO
+
+
+
+[ Breve descripción de lo que contiene el documento 
+
+y Resumen conciso de problemas detectados ]
+
+
+
+
+
+
+
+
+
+## 3 METODOLOGIA 
+
+#### Metodología de usabililidad
+
+[Metodología, sesiones,  técnicas aplicadas... ]
+
+ 
+
+#### Test de usuarios: Participantes
+
+[tabla, ejemplo, descripción demográfica de los participantes]
+
+
+
+
+
+#### Resultados obtenidos
+
+
+
+(resultado de SUS)
+
+
+
+(resultado de eyetracking)
+
+
+
+
+
+
+
+
+
+## 4 CONCLUSIONES 
+
+
+
+(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
+
+
+
+#### Incidencias
+
+* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
+
+
+
+#### Valoración 
+
+* (Puntos Positivos a destacar)
+
+
+
+#### Recomendaciones y propuesta de mejoras: 
+
+* (Puntos de mejora)
+
+
+
+
+
+
+
+#### Valoración de la prueba de usabilidad (self-assesment)
+
+(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+
 
 
 
