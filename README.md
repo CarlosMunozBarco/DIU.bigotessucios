@@ -268,8 +268,16 @@ La atencion de este usuario se ha dirigido principalmente a lo que teniamos plan
 
 Usuario objetivo 1.
 
+<img src="https://github.com/CarlosMunozBarco/DIU.bigotessucios/blob/master/img/landing.png" width="300" height="350">
+
+El usuario objetivo 1, por su parte, ha otorgado mayor importancia al título y las tarjetas, ignorando completamente el boton de apuntarse.
 
 Usuario objetivo 2.
+
+<img src="https://github.com/CarlosMunozBarco/DIU.bigotessucios/blob/master/img/u2_landing.png" width="300" height="350">
+
+El usuario objetivo 2, al igual que el 1, la mirada se ha dirigido mas hacia las tarjetas y el título que al boton de apuntarse. Claramente esto indica un fallo de diseño y es una clara muestra de que no estamos consiguiendo dirigir la atención
+del usuario hacia donde nosotros queremos.
 
 
 ## Imagen 2. Catálogo de items.
@@ -287,9 +295,16 @@ El usuario experto se ha centrado mayormente en el boton de comprar, lo que era 
 
 Usuario objetivo 1.
 
+<img src="https://github.com/CarlosMunozBarco/DIU.bigotessucios/blob/master/img/catalogo.png" width="300" height="350">
+
+En este caso el usuario objetivo 1 también ha prestado la mayor parte de su atención a los botones de comprar y ver, pero se ha fijado también en la imagen de uno de los productos. Por lo tanto, podemos considerar que el diseño ha funcionado mejor con el usuario objetivo 1 que
+con el usuario experto.
 
 Usuario objetivo 2.
 
+<img src="https://github.com/CarlosMunozBarco/DIU.bigotessucios/blob/master/img/u2_catalogo.png" width="300" height="350">
+
+Al igual que con los dos anteriores usuarios, el usuario objetivo 2 ha dedicado su atención sobretodo a los botones de comprar y las imágenes. Esto nos indica que el diseño de esta pantalla es correcto, ya que estamos consiguiendo guiar la atención del usuario a las areas de interes.
 
 
 ## Imagen 3. Pantalla de compra de un item especifico.
@@ -307,10 +322,16 @@ Es facil comprobar que el usuario experto ha dedicado casi toda su atención al 
 
 Usuario objetivo 1.
 
+<img src="https://github.com/CarlosMunozBarco/DIU.bigotessucios/blob/master/img/producto.png" width="300" height="350">
+
+El usuario objetivo 1 ha observado mayormente las imágenes y descripción del juego, pero ha ignorado el botón de compra y el precio. Este resultado puede significar que el botón de compra no es lo suficientemente destacable, aunque por otra parte tiene cierto sentido que un usuario
+prefiera ver primero como es el juego que va a comprar antes de contemplar comprarselo.
 
 Usuario objetivo 2.
 
+<img src="https://github.com/CarlosMunozBarco/DIU.bigotessucios/blob/master/img/u2_producto.png" width="300" height="350">
 
+Parecido al usuario objetivo 1, el usuario objetivo dos le ha dedicado todo su tiempo y atención a la descripción y título del juego, pero no tanto a las imágenes. De nuevo, este usuario también ha ignorado el botón de compra, quizas por las mismas razones que hemos expuesto anteriormente.
 
 ![Método UX](img/Survey.png) 4.d Cuestionario SUS
 ----
