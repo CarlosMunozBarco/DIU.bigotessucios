@@ -416,112 +416,74 @@ Los problemas que hemos encontrado durante el testeo de la página han sido vari
 
 
 
-
-
-
 ## 3 METODOLOGIA 
 
 #### Metodología de usabililidad
 
 [Metodología, sesiones,  técnicas aplicadas... ]
 
- 
+ Para poder evaluar correctamente la usabilidad de la web hemos empleado el uso de varias metodologías y técnicas. La más importante de ellas ha sido el cuestionario SUS, que nos permite conocer como ha sido la experiencia general de cada uno de los usuarios en la página web, y extraer conclusiones en base a ello. En dicho cuestionario se plantean una serie de declaraciones y se le pregunta al usuario si están o no (y cuanto) de acuerdo con ellas.
 
 #### Test de usuarios: Participantes
 
 [tabla, ejemplo, descripción demográfica de los participantes]
 
+Para la evaluación de la página hemos requerido de dos participantes muy diferenciados entre si, para poder aparcar la mayor variedad de puntos de vista posibles. Estos son Ainhoa Ugartemendia, una abogada de 35 años que suele hacer mas caso de los sentimientos que de la lógica, y Manuel Aguilar, un físico de 45 años que suele darle mas importancia a la razón que al corazón.
 
+He aqui una tabla que resume las carcterísitcas de los participantes:
 
-
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
+| Ainhoa Ugartemendia  | M / 35   | Abogada     | Media        | Emocional    | Web      | B 
+| Manuel Aguilar  | H / 45   | Fisico  | Media       | Racional     | Web        | B 
 
 #### Resultados obtenidos
 
+Empecemos por mostrar los resultados del cuestionario SUS.
 
 
-(resultado de SUS)
-
-
-
-(resultado de eyetracking)
-
-
-
-
-
+| CUESTIONARIO SUS                                                                         | Valoracion Ainhoa (entre 1-5) | Normalizado | Valoracion Manuel (entre 1-5) 
+| ---------------------------------------------------------------------------------------- | ---------------------------- | ----------- | ---------------------------- |
+| Creo que me gustará visitar con frecuencia este website                                  | 5                            | 4           | 3                            |
+| Encontré el website innecesariamente complejo                                            | 2                            | 3           | 1                            | 
+| Pensé que era fácil utilizar este website                                                | 4                            | 3           | 5                            | 
+| Creo que necesitaría del apoyo de un experto para recorrer el website                    | 1                            | 4           | 1                            |
+| Encontré las funciones del website bastante bien integradas                              | 4                            | 3           | 5                            |
+| Pensé que había demasiada inconsistencia en el website                                   | 1                            | 4           | 1                            |
+| Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | 4                            | 3           | 5                            |
+| Encontré el website muy grande al recorrerlo                                             | 2                            | 3           | 2                            | 
+| Me sentí muy confiado en el manejo del website                                           | 5                            | 4           | 5                            |
+| Necesito aprender muchas cosas antes de manejarme en el website                          | 2                            | 3           | 1                            |
+| VALORACION FINAL                                                                         | 85                           | 85          | 92,5                         |
 
 
 
 
 ## 4 CONCLUSIONES 
 
-
-
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
-
+En base a los resultados obtenidos podemos decir que la aplicación de Sabor y Saber es sencilla, facil de usar y efectiva. Los usuarios se sienten cómodos usandola, la notan consistente y lo suficientemente intuitiva como para poder aprovechar toda su funcionalidad sin necesitar experiencia previa. En general, es una aplicación bien hecha y que cumple muy adecuadamente con su función.
 
 
 #### Incidencias
 
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
+No ha habido ninguna incidencia, todas las pruebas se han podido realizar correctamente y tal y como se tenía previsto.
 
 
 
 #### Valoración 
 
-* (Puntos Positivos a destacar)
-
+La aplicación es intuitiva y es consistente respecto a su estilo (moodboard), el cual es agradable y distintivo.
 
 
 #### Recomendaciones y propuesta de mejoras: 
 
-* (Puntos de mejora)
-
-
-
-
+Si hubiera que sacar algun aspecto mejorable, seria la landing page, que aun siendo bonita y práctica, consideramos que podría dejar mas claro cuales son las funcionalidades que ofrece la web.
 
 
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
-
-
-
-
->>> Valoración personal 
-
-
-
-
-
-5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
-----
-
-
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
-
-
-
-
-
-
-## Conclusión final / Valoración de las prácticas
-
-
->>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
-
-
-
-
-
-
+La prueba de usabilidad, especialmente el cuestionario SUS, nos parecen unas formas magnificas de valorar la usabilidad de una web, pues permite objetivizar lo maximo posible nuestra experciencia con la web y nos facilita dar nuestra opionión al preguntarnos sobre aspectos específicos sobre los que es mas facil formular una crítica.
 
 
 
